@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(234, 127, 227);
+    font-family: "Nunito", sans-serif;
+}
+
+.lead{
+    color:rgb(28, 2, 30);
+    font-size: large;
+}
+
+#mainNavbar{
+    font-size: x-large;
+}
+
+#mainNavbar .nav-link{
+    color:rgb(188, 37, 158);
+}
+
+#mainNavbar  .nav-link:hover{
+    color:blueviolet;
+}
+
+#mainNavbar .navbar-brand{
+    color: deeppink;
+}
